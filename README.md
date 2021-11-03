@@ -12,4 +12,7 @@ Linear Regression with Python Scikit Learn In this section we will see how the P
 6 - Test with hours = 9.25 
 
 PS : before starting the task I like to see some exemples of how to creat a graph using Seaborn and Matplotlib. Also how you can limit the data (show few data to work with) 
+
+you can see the demo at the link below :
+https://lnkd.in/gEQm3zfQ
  
